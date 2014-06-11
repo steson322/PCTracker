@@ -1,0 +1,6 @@
+C:\Users\Steven Song\Documents\Visual Studio 2012\Projects\PCTracker\PCTracker\bin\Debug\PCTracker.exe.config
+C:\Users\Steven Song\Documents\Visual Studio 2012\Projects\PCTracker\PCTracker\obj\Debug\PCTracker.csprojResolveAssemblyReference.cache
+C:\Users\Steven Song\Documents\Visual Studio 2012\Projects\PCTracker\PCTracker\bin\Debug\PCTracker.exe
+C:\Users\Steven Song\Documents\Visual Studio 2012\Projects\PCTracker\PCTracker\bin\Debug\PCTracker.pdb
+C:\Users\Steven Song\Documents\Visual Studio 2012\Projects\PCTracker\PCTracker\obj\Debug\PCTracker.exe
+C:\Users\Steven Song\Documents\Visual Studio 2012\Projects\PCTracker\PCTracker\obj\Debug\PCTracker.pdb
