@@ -27,9 +27,13 @@ namespace PCTracker
         {
             Console.WriteLine(DateTime.Now + " : ");
             string pub_ip = GetPublicIP();
+            string mac_nm = System.Environment.MachineName;
+            string usr_nm = System.Environment.UserName;
             IPAddress PublicIP;
             if (IPAddress.TryParse(pub_ip, out PublicIP))
             {
+                Console.WriteLine("\tPC:" + mac_nm);
+                Console.WriteLine("\tUR:" + usr_nm);
                 Console.WriteLine("\tIP:" + PublicIP.ToString());
             }
         }
